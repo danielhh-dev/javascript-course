@@ -8,7 +8,7 @@ alert('Bienvenido a tu horoscopo');
 do {
 //Preguntamos la fecha de nacimiento a traves del prompt
 dia = parseInt(prompt('Ingresa el número de día en que naciste'));
-mes = parseInt(prompt('Ingresa el mes en que naciste'));
+mes = parseInt(prompt('Ingresa el número de mes en que naciste'));
 
 //Usamos if para calular el horoscopo dependiendo de la fecha de nacimiento
 if((dia>=21&&mes==3)||(dia<=20&&mes==4))
