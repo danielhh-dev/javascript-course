@@ -18,7 +18,7 @@ horoscopo = 'Libra';
 if((dia>=21&&mes==4)||(dia<=21&&mes==5))
 horoscopo = 'Tauro';
 if((dia>=24&&mes==10)||(dia<=22&&mes==11))
-horoscopo = 'Escrpio';
+horoscopo = 'Escorpio';
 if((dia>=22&&mes==5)||(dia<=21&&mes==6))
 horoscopo = 'Geminis';
 if((dia>=23&&mes==11)||(dia<=21&&mes==12))
