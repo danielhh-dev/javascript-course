@@ -21,10 +21,5 @@ for( i = 0 ; i < numeroAlbums ; i++) {
 }
 respuesta = prompt("Deseas eliminar el último album registrado?");
 
-if (respuesta == 'si' || respuesta == 'Si') {
-  coleccion.pop();
-  alert("Tus cambios se han guardado");
-} else {
-  alert("Gracias por usar Album Collection");
-}
+
 
